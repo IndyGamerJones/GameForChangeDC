@@ -1,0 +1,62 @@
+Across the US for residential power, the average price of a megawatt hour is $122.20
+
+Pennsylvania Energy production for 2015 from:
+Coal: 64,637,233 megawatt hours
+Natural Gas: 59,454,655 megawatt hours
+
+Pennsylvania Carbon Dioxide Emissions for 2015 from:
+
+Coal: 63,729,258 metric tons
+Natural Gas: 25,136,109 metric tons
+
+Pennsylvania Carbon Dioxide emissions for 2015 in tons from:
+
+Coal: 70,249,482 tons
+Natural gas: 27,707,817 tons
+
+The amount of tons of carbon dioxide emitted per megawatt hour of power produce from a different types of power plants
+
+Coal: 1.086826875772977 tons
+Natural Gas: 0.4660327605971307 tons
+
+The average efficiency of a power plant: 88% (boiler and combustion efficacy)* 38% (steam cycle efficacy) = 33.44% (overall efficacy)
+
+Using that efficiency to calculate the amount of kilojoules needed for a kilowatt by fuel type 3600 (kilojoules in a kilowatt)/0.3344(efficiency) = 10765 kilojoules per kilowatt hour
+
+Heat values per ton for different fuels:
+
+Coal: 10765 (Kilojoules per kilowatt)/ 30080 (kilojoules per kilogram of Medium Volatile Bituminous coal) = 0.334 (kilograms of coal per kilowatt hour)
+Natural Gas:
+
+Amount of fuel needed for 500 megawatt hours by fuel type:
+
+Coal: 0.334(kilograms of fuel per kilowatt hour) * 1000 (kilowatt hours in a megawatt hour) * 500 (that makes 500 megawatt hours) = 167,000 kilograms an hour needed for 100
+
+Amount of fuel needed for 500 megawatt hours in tons by fuel type
+
+Coal: 167,000 (kilograms of coal per 500 megawatt hours) * 0.00110231 (conversion rate) = 184.085989 =~ 184 tons
+
+Cost of 500 megawatt hours in dollars by fuel type:
+
+Coal: 184 (amount of tons of bituminous medium volatile coal per 500 megawatt hours) * 51.57 (bituminous coal per ton) = $9,488.88 (Cost per hour for a coal plant)
+
+Amount of Carbon Dioxide emitted for a 500 megawatt hour plant by fuel type:
+
+Coal: 1.086826875772977 (tons of carbon dioxide per megawatt hour) * 500 = 543.4134378864885 =~ 543 tons
+
+Estimated Cost of building a plant per kilowatt hour cap by fuel type:
+
+Coal: $3,500
+
+Cost of building a 500mgh plant by fuel type:
+
+Coal: 3,500 (cost per kilowatt hour) * 500,000 (amount of kilowatt hours in 500 megawatt hours) = 1,750,000,000 or 1.75 billion dollars
+
+Sources:
+https://www.eia.gov/electricity/data/state/
+http://www.world-nuclear.org/information-library/facts-and-figures/heat-values-of-various-fuels.aspx
+http://www.ucsusa.org/clean_energy/coalvswind/c01.html#.WOOY-_nyvDc
+https://www.eia.gov/energyexplained/index.cfm?page=coal_prices
+http://www.brighthubengineering.com/Apower-plants/52544-basic-calculations-for-a-power-plant-calculating-the-coal-quantity/
+https://pdfs.semanticscholar.org/91d3/bd08c6672492fda5e14484abecea86117ad6.pdf
+https://www.eia.gov/electricity/monthly/epm_table_grapher.cfm?t=epmt_5_6_a
